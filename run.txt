@@ -1,0 +1,3 @@
+public: yarn start
+
+server: yarnt start
