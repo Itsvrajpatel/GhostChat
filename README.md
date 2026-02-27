@@ -6,3 +6,7 @@ SIGN UP:
 
 LOGIN:
 ![Screenshot 2023-08-27 000804](https://github.com/Itsvrajpatel/GhostChat/assets/99316553/2af9b55a-f069-4da2-ac6d-3350a3e04243)
+
+AVATAR:
+<img width="1661" height="768" alt="Screenshot 2023-10-13 110953" src="https://github.com/user-attachments/assets/475e287e-9f75-4aa6-83ad-322bf7c4f718" />
+
