@@ -10,3 +10,7 @@ LOGIN:
 AVATAR:
 <img width="1661" height="768" alt="Screenshot 2023-10-13 110953" src="https://github.com/user-attachments/assets/475e287e-9f75-4aa6-83ad-322bf7c4f718" />
 
+CHAT SCREEN:
+<img width="1448" height="630" alt="Screenshot 2023-10-13 111022" src="https://github.com/user-attachments/assets/442bfac9-1eb9-41a0-9635-71aecbd11d65" />
+
+
